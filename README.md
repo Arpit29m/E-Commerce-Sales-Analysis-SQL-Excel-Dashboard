@@ -45,6 +45,7 @@ The analysis provides a comprehensive view of sales and profitability across cus
 - E-Commerce_Dashboard.xlsx
 - E-Commerce_sql_queries.docx
 - dashboard.png
+- E-Commerce_dataset.csv
 - README.md
 
 ## Download Project Files
